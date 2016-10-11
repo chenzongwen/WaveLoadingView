@@ -6,11 +6,11 @@ This is a WaveLoadingView
 
 Download
 ========
-[ Download demo.apk ](https://github.com/chenzongwen/ProgressView.git/demo.apk)
+[ Download demo.apk ](https://github.com/chenzongwen/WaveLoadingView.git/demo.apk)
 
 Demo
 ====
- ![image](https://github.com/chenzongwen/Drawer/blob/master/raw/wave.gif)
+ ![image](https://github.com/chenzongwen/WaveLoadingView/blob/master/raw/wave.gif)
 
 
 
